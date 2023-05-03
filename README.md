@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Redux & Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://aneelgrewal.netlify.app/](https://aneelgrewal.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://aneelgrewal.netlify.app/](https://aneelgrewal.netlify.app/)
 
 - 📫 How to reach me **aneel.grewal@hotmail.com**
 
